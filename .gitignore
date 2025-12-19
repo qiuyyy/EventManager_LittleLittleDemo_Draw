@@ -1,0 +1,35 @@
+TextMesh Pro/*
+Library/*
+Temp/
+Logs/
+Plugins/
+*.zip
+*.csproj
+
+
+#//////////////////////////
+# VS Code files
+#//////////////////////////
+
+.vscode/
+
+# Android
+/build/*
+!/build/jsb-link/
+/build/jsb-link/*
+!/build/jsb-link/frameworks/
+/build/jsb-link/frameworks/*
+!/build/jsb-link/frameworks/runtime-src/
+/build/jsb-link/frameworks/runtime-src/*
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/
+/build/jsb-link/frameworks/runtime-src/proj.android-studio/*
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/
+/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/*
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/src
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/*.xml
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/*.gradle
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/*.properties
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/res
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/*.gradle
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/*.properties
+!/build/jsb-link/frameworks/runtime-src/proj.android-studio/gradle/
